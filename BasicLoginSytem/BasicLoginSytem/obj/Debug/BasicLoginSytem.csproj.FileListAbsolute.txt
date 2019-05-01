@@ -1,0 +1,10 @@
+C:\Users\ydrag\OneDrive\Área de Trabalho\coding\BasicLoginSytem\BasicLoginSytem\obj\Debug\BasicLoginSytem.csprojAssemblyReference.cache
+C:\Users\ydrag\OneDrive\Área de Trabalho\coding\BasicLoginSytem\BasicLoginSytem\obj\Debug\BasicLoginSytem.Form1.resources
+C:\Users\ydrag\OneDrive\Área de Trabalho\coding\BasicLoginSytem\BasicLoginSytem\obj\Debug\BasicLoginSytem.Properties.Resources.resources
+C:\Users\ydrag\OneDrive\Área de Trabalho\coding\BasicLoginSytem\BasicLoginSytem\obj\Debug\BasicLoginSytem.csproj.GenerateResource.cache
+C:\Users\ydrag\OneDrive\Área de Trabalho\coding\BasicLoginSytem\BasicLoginSytem\obj\Debug\BasicLoginSytem.csproj.CoreCompileInputs.cache
+C:\Users\ydrag\OneDrive\Área de Trabalho\coding\BasicLoginSytem\BasicLoginSytem\bin\Debug\BasicLoginSytem.exe.config
+C:\Users\ydrag\OneDrive\Área de Trabalho\coding\BasicLoginSytem\BasicLoginSytem\bin\Debug\BasicLoginSytem.exe
+C:\Users\ydrag\OneDrive\Área de Trabalho\coding\BasicLoginSytem\BasicLoginSytem\bin\Debug\BasicLoginSytem.pdb
+C:\Users\ydrag\OneDrive\Área de Trabalho\coding\BasicLoginSytem\BasicLoginSytem\obj\Debug\BasicLoginSytem.exe
+C:\Users\ydrag\OneDrive\Área de Trabalho\coding\BasicLoginSytem\BasicLoginSytem\obj\Debug\BasicLoginSytem.pdb
