@@ -1,0 +1,12 @@
+C:\Users\ydrag\source\repos\BlocoDeNotas\BlocoDeNotas\bin\Debug\BlocoDeNotas.exe.config
+C:\Users\ydrag\source\repos\BlocoDeNotas\BlocoDeNotas\bin\Debug\BlocoDeNotas.exe
+C:\Users\ydrag\source\repos\BlocoDeNotas\BlocoDeNotas\bin\Debug\BlocoDeNotas.pdb
+C:\Users\ydrag\source\repos\BlocoDeNotas\BlocoDeNotas\bin\Debug\BlocoDeNotas.xml
+C:\Users\ydrag\source\repos\BlocoDeNotas\BlocoDeNotas\obj\Debug\BlocoDeNotas.vbprojAssemblyReference.cache
+C:\Users\ydrag\source\repos\BlocoDeNotas\BlocoDeNotas\obj\Debug\BlocoDeNotas.Form1.resources
+C:\Users\ydrag\source\repos\BlocoDeNotas\BlocoDeNotas\obj\Debug\BlocoDeNotas.Resources.resources
+C:\Users\ydrag\source\repos\BlocoDeNotas\BlocoDeNotas\obj\Debug\BlocoDeNotas.vbproj.GenerateResource.cache
+C:\Users\ydrag\source\repos\BlocoDeNotas\BlocoDeNotas\obj\Debug\BlocoDeNotas.vbproj.CoreCompileInputs.cache
+C:\Users\ydrag\source\repos\BlocoDeNotas\BlocoDeNotas\obj\Debug\BlocoDeNotas.exe
+C:\Users\ydrag\source\repos\BlocoDeNotas\BlocoDeNotas\obj\Debug\BlocoDeNotas.xml
+C:\Users\ydrag\source\repos\BlocoDeNotas\BlocoDeNotas\obj\Debug\BlocoDeNotas.pdb
